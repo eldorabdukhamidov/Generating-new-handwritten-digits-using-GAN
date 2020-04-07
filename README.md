@@ -2,7 +2,7 @@
 
 ## GAN for generating new handwritten digits
 
-In this project, you can be familiar with building a generative adversarial network (GAN) trained on the MNIST dataset. Here are a few examples to check out:
+In this project, you can be familiar with building a generative adversarial network (GAN) trained on the MNIST dataset. If you know how to use generative adversarial network in your projects, here are other examples to check out:
 
  - [Pix2Pix](https://affinelayer.com/pixsrv/)
  - [CycleGAN & Pix2Pix in PyTorch, Jun-Yan Zhu](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
