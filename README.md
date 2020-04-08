@@ -13,7 +13,7 @@ In this project, you can be familiar with building a generative adversarial netw
 
 - **NumPy** - a fundamental package for scientific computing in python
 - **Pandas** - an ease-to-use python library for manipulating data structures and performing data analysis
-- **Jupyter Notebook** - tool that allows the creation of documents with live code
+- **Jupyter Notebook** - a tool that allows the creation of documents with live code
 - **Matplotlib** - a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 - **PyTorch** - an open source machine learning library
 
@@ -21,7 +21,7 @@ In this project, you can be familiar with building a generative adversarial netw
 
 1. Install [Anaconda](https://www.anaconda.com/distribution/).
 2. Download the project
-3. cd into the project folder
+3. cd into the project folder and open your terminal
 4. Run the code below to create and activate new environment
 
 ```
