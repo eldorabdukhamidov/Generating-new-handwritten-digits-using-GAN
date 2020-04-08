@@ -19,9 +19,9 @@ In this project, you can be familiar with building a generative adversarial netw
 
 ## Instruction
 
-1. Install [Anaconda](https://www.anaconda.com/distribution/).
+1. Install [Anaconda](https://www.anaconda.com/distribution/)
 2. Download the project
-3. cd into the project folder and open your terminal
+3. cd into the project folder
 4. Run the code below to create and activate new environment
 
 ```
